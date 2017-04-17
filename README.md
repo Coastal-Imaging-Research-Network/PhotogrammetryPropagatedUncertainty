@@ -1,0 +1,2 @@
+# PhotogrammetryPropagatedUncertainty
+MATLAB implementation of uncertainty propagation through the photogrammetry equations
